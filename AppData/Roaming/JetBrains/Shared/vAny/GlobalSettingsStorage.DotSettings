@@ -1,0 +1,131 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntellisenseGloballyEnabled/IntellisenseEnabled/@EntryValue">Disabled</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/AnalysisEnabled/@EntryValue">SOLUTION</s:String>
+	<s:Boolean x:Key="/Default/CodeInspection/Highlighting/IncludeWarningsInSwea/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CommonFormatter/USE_INDENTS_FROM_MAIN_LANGUAGE_IN_FILE/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/IsNotificationDisabled/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Connection/XmlConnectionList/@EntryValue">&lt;Configurator&gt;&lt;ConnectList /&gt;&lt;/Configurator&gt;</s:String>
+	<s:Boolean x:Key="/Default/DotPeek/DotPeekLicenseAgreement/Accepted/@EntryValue">True</s:Boolean>
+	<s:Int64 x:Key="/Default/DotPeek/DotPeekLicenseAgreement/AcceptedVersion/@EntryValue">1100</s:Int64>
+	<s:String x:Key="/Default/DotPeek/DotPeekTheme/ColorTheme/@EntryValue">Dark</s:String>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorlib.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Xml.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Data.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework64\v4.0.30319\System.Web.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Client.Service.exe" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\log4net.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Logging.Log4NetAdapter.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Logging.Interfaces.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceProcess\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.ServiceProcess.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Client.Plugins.Common.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Client.Interfaces.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Client.OwinMiddleware.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Client.PluginRunner.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.SimpleAutoUpdater.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Client.CommonInterfaces.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Owin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Microsoft.Owin.Hosting.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Microsoft.Owin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Microsoft.Owin.Host.HttpListener.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Microsoft.Owin.StaticFiles.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Microsoft.Owin.FileSystems.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceProcess.resources\v4.0_4.0.0.0_ru_b03f5f7f11d50a3a\System.ServiceProcess.resources.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\System.resources.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Redgate.Client.Common.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.PluginProvider.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.Plugins.Common.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.Interfaces.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.ActivationPlugin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.UpdatePlugin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.NotificationPlugin.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\Redgate.Client.Common.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Licensing.Client.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Web.Services\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\Newtonsoft.Json.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Security\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Security.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Numerics\v4.0_4.0.0.0__b77a5c561934e089\System.Numerics.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Serialization\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Serialization.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\.rgupdate\RedgateClient_7.4.4.2849\RedGate.Client.OwinMiddleware.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Update.Client.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Update.Client.Interfaces.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Common Files\Red Gate\Shared Client\RedGate.Ipc.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel\v4.0_4.0.0.0__b77a5c561934e089\System.ServiceModel.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_64\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\SMDiagnostics\v4.0_4.0.0.0__b77a5c561934e089\SMDiagnostics.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.ServiceModel.Internals\v4.0_4.0.0.0__31bf3856ad364e35\System.ServiceModel.Internals.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.IdentityModel\v4.0_4.0.0.0__b77a5c561934e089\System.IdentityModel.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.VisualStudio.Diagnostics.ServiceModelSink\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Diagnostics.ServiceModelSink.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\assembly\GAC_MSIL\System.Threading\1.0.2856.102__31bf3856ad364e35\System.Threading.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	
+	<s:String x:Key="/Default/Environment/ExternalSources/SymbolServer/AssemblyFilter/@EntryValue">ExceptNuGetPackagesCache</s:String>
+	<s:Boolean x:Key="/Default/Environment/ExternalSources/SymbolServer/FirstStart/@EntryValue">False</s:Boolean>
+	
+	
+	<s:Boolean x:Key="/Default/Environment/Feedback/SendActivityLogs/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/Feedback/ShouldPrompt/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/Environment/Fonts/CodeFont/FontFamily/@EntryValue">Consolas</s:String>
+	<s:Double x:Key="/Default/Environment/Fonts/CodeFont/FontSize/@EntryValue">13</s:Double>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">6</s:Int64>
+	<s:Boolean x:Key="/Default/Environment/PerformanceGuide/Enabled/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=Antivirus/@EntryIndexedValue">DO_NOTHING</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=AutoRecoverer/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=Format/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=Roslyn_002Dswea/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=ShowAnnotations/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=SolExp_002DTrack/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=StartPage_002DIsDownloadRefreshEnabled/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=StartPage_002DOnEnvironmentStatup/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=SyncSettings/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=TextEditor_002DCodeLens/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=TextEditor_002DTrackChanges_002D2/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=VCS/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=VsBulb/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchBehaviour/=XAML_0020Designer/@EntryIndexedValue">LIVE_MONITOR</s:String>
+	
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchConflictResolutionMode/=Roslyn_002Dswea/@EntryIndexedValue">NOTIFY</s:String>
+	
+	<s:Boolean x:Key="/Default/Environment/PerformanceGuide/SwitchConflictResolutionMode/=VCS/@EntryIndexRemoved">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/PerformanceGuide/SwitchConflictResolutionMode/=VsBulb/@EntryIndexedValue">NOTIFY</s:String>
+	<s:Boolean x:Key="/Default/Environment/SettingsMigration/IsMigratorApplied/=JetBrains_002EReSharper_002EUnitTestFramework_002ESettings_002EMigrations_002ERemoveBuildPolicyAlwaysMigration/@EntryIndexedValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheck/@EntryValue">02/27/2020 02:48:55</s:String>
+	<s:String x:Key="/Default/Environment/UserInterface/ShortcutSchemeName/@EntryValue">VS</s:String>
+	<s:String x:Key="/Default/GlobalFilterSettingsManager/AppliedDefaultAttributeFilterString/@EntryValue">;System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute;System.CodeDom.Compiler.GeneratedCodeAttribute;Microsoft.VisualStudio.TestPlatform.TestSDKAutoGeneratedCode*</s:String>
+	<s:String x:Key="/Default/GlobalFilterSettingsManager/AttributeFilterXml/@EntryValue">&lt;data&gt;&lt;AttributeFilter ClassMask="System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute" IsEnabled="True" /&gt;&lt;AttributeFilter ClassMask="System.CodeDom.Compiler.GeneratedCodeAttribute" IsEnabled="True" /&gt;&lt;AttributeFilter ClassMask="Microsoft.VisualStudio.TestPlatform.TestSDKAutoGeneratedCode*" IsEnabled="True" /&gt;&lt;/data&gt;</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/ExtensionManager/IncludePrereleasePackages/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=EditorConfigFeatureSuggester/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/FeedbackReport/SelectedUserIdentificator/@EntryValue">anonymous</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/Layout/DialogWindows/OpenFromNuGetDialog/LoadDependencies/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialogView/Position/@EntryValue">[0,-30](1024,827)</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">EnvironmentViewer</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/RefactoringsMru/UseInline/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/IsPreviewVisible/=UnitTestSessionDescriptor/@EntryIndexedValue">False</s:Boolean>
+	<s:Double x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistence/PreviewSplitterVerticalProportion/=UnitTestSessionDescriptor/@EntryIndexedValue">1</s:Double>
+	
+	<s:Boolean x:Key="/Default/Housekeeping/UpgradeFromExceptionReport/UpgradePerformed/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/WhatsNewShown/WhatsNewShownIndexedEntry/=RC/@EntryIndexedValue">2019.3</s:String>
+	<s:String x:Key="/Default/Housekeeping/WhatsNewShown/WhatsNewShownIndexedEntry/=RS/@EntryIndexedValue">2019.3</s:String>
+	<s:String x:Key="/Default/InstallationId/Value/@EntryValue">7294598FA65293448E7EF6C68217377A</s:String>
+	<s:Boolean x:Key="/Default/JsonFeatures/=263a7540_002D6cc3_002D4eb8_002Dbdf6_002D00925fb00991/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/JsonFeatures/=263a7540_002D6cc3_002D4eb8_002Dbdf6_002D00925fb00991/FeatureId/@EntryValue">None</s:String>
+	<s:String x:Key="/Default/JsonFeatures/=263a7540_002D6cc3_002D4eb8_002Dbdf6_002D00925fb00991/Id/@EntryValue">263a7540-6cc3-4eb8-bdf6-00925fb00991</s:String>
+	<s:String x:Key="/Default/JsonFeatures/=263a7540_002D6cc3_002D4eb8_002Dbdf6_002D00925fb00991/Schema/@EntryValue">https://raw.githubusercontent.com/angular/angular-cli/master/packages/angular/cli/lib/config/schema.json</s:String>
+	<s:Int64 x:Key="/Default/Layout/MenuItem/@EntryValue">6</s:Int64>
+	
+	<s:String x:Key="/Default/SnapshotsStore/CurrentStore/@EntryValue">C:\Users\Leks\AppData\Local\JetBrains\Shared\vAny\Sessions</s:String></wpf:ResourceDictionary>
